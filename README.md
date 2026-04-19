@@ -1,9 +1,9 @@
 # 🏥 Hospital Analysis Project (SQL)
 
 ![Project Banner](https://img.shields.io/badge/Project-Hospital%20Analysis-blue?style=for-the-badge)
+
 ![SQL](https://img.shields.io/badge/Language-SQL-orange?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-green?style=for-the-badge)
-![Level](https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-purple?style=for-the-badge)
+
 
 ---
 
