@@ -22,9 +22,13 @@ The goal is to simulate a real-world healthcare analytics scenario and extract m
 ## 🎯 Objectives
 
 ✔ Measure patient satisfaction across departments
+
 ✔ Evaluate doctor performance using patient feedback
+
 ✔ Identify most common diseases in the hospital
+
 ✔ Practice real-world SQL concepts (JOIN, GROUP BY, Aggregations)
+
 
 ---
 
@@ -116,7 +120,9 @@ ORDER BY total_cases DESC;
 📈 **Insight:** Helps identify most common diseases in the hospital.
 
 ---
+# 🏥 Hospital Performance & Patient Insights Dashboard
 
+![Image Ait](https://github.com/bhakatkhush256-eng/hospital-analysis/blob/4e5b22645531f9db90d8ed42a474f70985b1f332/%F0%9F%8F%A5%20Hospital%20Performance%20%26%20Patient%20Insights%20Dashboard.png)
 ## 🧠 Skills Demonstrated
 
 * 🗃️ Database Design
